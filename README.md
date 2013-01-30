@@ -5,7 +5,7 @@ Basic Ordering System with GUI written in JAVA
 
 ##Brief description
 
-The FlexBox ordering system was designed using OOP to support the company’s main activity which is the selling of boxes. 
+The FlexBox ordering system was designed using OOP to support the company’s main activity which is the selling of boxes.<br> 
 The application allows the customers to enter the details of a type of box such as: width, height, length, grade of card, whether they want any colour printing, whether they want any bottom and/or corner reinforcement, whether the box has a sealable top and the quantity of boxes.
 The system will then check if the ordered box corresponds to any type of boxes that can be supplied by the company and if positive it will quote the total cost of the order, otherwise it will display an error message. 
 If the customer wants to order different quantities of different types of boxes, the system will quote the total cost of the boxes. 
