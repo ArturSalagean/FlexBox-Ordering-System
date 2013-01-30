@@ -11,7 +11,7 @@ The system will then check if the ordered box corresponds to any type of boxes t
 If the customer wants to order different quantities of different types of boxes, the system will quote the total cost of the boxes. 
 I’ve added an extra feature to the application which enables the user to remove an order from the orders list and the system will display the total cost after the removal of the order.
 
-**2. Assumptions**
+##Assumptions
 
 I assumed that:
 * The user has to enter the values for width, height, length in meters.
@@ -27,7 +27,7 @@ I assumed that:
 * The user needs to know when he entered invalid values, so the application will give corresponding error messages. 
 * The total cost value has to be formatted with a maximum of 2 decimals and half up rounding.
 
-**3. Limitations**
+##Limitations
 
 Input	Minimum	Maximum	Type
 Width	0.5 m	10 m	Double
