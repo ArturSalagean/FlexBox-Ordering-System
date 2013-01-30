@@ -33,15 +33,16 @@ I assumed that:
 <tr>
 <th>Input</th>
 <th>Minimum</th>
-<th>Maximum	Type</th>
+<th>Maximum</th>
+<th>Type</th>
 </tr>
 <tr><td>Width</td><td>0.5 m</td><td>10 m</td><td>Double</td></tr>
-Height	0.5 m	10 m	Double
-Length	0.5 m	10 m	Double
-Grade of card	1	5	Natural number (can be selected from drop-down list)
-Colour Printing	0	2	Natural number(select button - at least one selected)
-Reinforced Bottom	Unchecked	Checked	Boolean (checkbox)
-Reinforced Corners	Unchecked	Checked	Boolean (checkbox)
-Sealable Tops	Unchecked	Checked	Boolean (checkbox)
-Quantity	1	100	Natural number
+<tr><td>Height</td><td>0.5 m</td><td>10 m</td><td>Double</td></tr>
+<tr><td>Length</td><td>0.5 m</td><td>10 m</td><td>Double</td></tr>
+<tr><td>Grade of card</td><td>1</td><td>5</td><td>Natural number (can be selected from drop-down list)</td></tr>
+<tr><td>Colour Printing</td><td>0</td><td>2</td><td>Natural number(select button - at least one selected)</td></tr>
+<tr><td>Reinforced Bottom</td><td>Unchecked</td><td>Checked</td><td>Boolean (checkbox)</td></tr>
+<tr><td>Reinforced Corners</td><td>Unchecked</td><td>Checked</td><td>Boolean (checkbox)</td></tr>
+<tr><td>Sealable Tops</td><td>Unchecked</td><td>Checked</td><td>Boolean (checkbox)</td></tr>
+<tr><td>Quantity</td><td>1</td><td>100</td><td>Natural number</td></tr>
 </table>
