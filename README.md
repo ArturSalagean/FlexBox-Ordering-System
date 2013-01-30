@@ -35,7 +35,7 @@ I assumed that:
 <th>Minimum</th>
 <th>Maximum	Type</th>
 </tr>
-Width	0.5 m	10 m	Double
+<tr><td>Width</td><td>0.5 m</td><td>10 m</td><td>Double</td></tr>
 Height	0.5 m	10 m	Double
 Length	0.5 m	10 m	Double
 Grade of card	1	5	Natural number (can be selected from drop-down list)
