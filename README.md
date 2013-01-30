@@ -29,7 +29,12 @@ I assumed that:
 
 ##Limitations
 
-Input	Minimum	Maximum	Type
+<table>
+<tr>
+<th>Input</th>
+<th>Minimum</th>
+<th>Maximum	Type</th>
+</tr>
 Width	0.5 m	10 m	Double
 Height	0.5 m	10 m	Double
 Length	0.5 m	10 m	Double
@@ -39,3 +44,4 @@ Reinforced Bottom	Unchecked	Checked	Boolean (checkbox)
 Reinforced Corners	Unchecked	Checked	Boolean (checkbox)
 Sealable Tops	Unchecked	Checked	Boolean (checkbox)
 Quantity	1	100	Natural number
+</table>
