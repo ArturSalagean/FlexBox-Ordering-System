@@ -3,11 +3,11 @@ FlexBox-Ordering-System
 
 Basic Ordering System with GUI written in JAVA
 
-1. **Brief description**
+**1. Brief description**
 
 The FlexBox ordering system was designed using OOP to support the company’s main activity which is the selling of boxes. The application allows the customers to enter the details of a type of box such as: width, height, length, grade of card, whether they want any colour printing, whether they want any bottom and/or corner reinforcement, whether the box has a sealable top and the quantity of boxes. The system will then check if the ordered box corresponds to any type of boxes that can be supplied by the company and if positive it will quote the total cost of the order, otherwise it will display an error message. If the customer wants to order different quantities of different types of boxes, the system will quote the total cost of the boxes. I’ve added an extra feature to the application which enables the user to remove an order from the orders list and the system will display the total cost after the removal of the order.
 
-2. **Assumptions**
+**2. Assumptions**
 
 I assumed that:
 * The user has to enter the values for width, height, length in meters.
@@ -23,7 +23,7 @@ I assumed that:
 * The user needs to know when he entered invalid values, so the application will give corresponding error messages. 
 * The total cost value has to be formatted with a maximum of 2 decimals and half up rounding.
 
-3.	**Limitations**
+**3. Limitations**
 
 Input	Minimum	Maximum	Type
 Width	0.5 m	10 m	Double
