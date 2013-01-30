@@ -46,3 +46,10 @@ I assumed that:
 <tr><td>Sealable Tops</td><td>Unchecked</td><td>Checked</td><td>Boolean (checkbox)</td></tr>
 <tr><td>Quantity</td><td>1</td><td>100</td><td>Natural number</td></tr>
 </table>
+
+##Marks
+
+These are the marks that I've got for this project:
+
+* Demonstration: 82%
+* Report: NYA
