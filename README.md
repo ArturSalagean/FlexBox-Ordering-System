@@ -49,7 +49,7 @@ I assumed that:
 
 ##Marks
 
-These are the marks that I've got for this project:
+These are the marks that I've received for this project:
 
 * Demonstration: 82%
 * Report: NYA
